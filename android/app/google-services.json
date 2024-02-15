@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428124675884",
+    "project_id": "crudappwithui",
+    "storage_bucket": "crudappwithui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428124675884:android:d6dd5d360ee104e7b45689",
+        "android_client_info": {
+          "package_name": "com.example.crud_app_with_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_N7rCB4moUK3LxqyFSJ8yVen48JXx8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
